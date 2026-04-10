@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/251811755?v=4" width="200" style="border-radius:50%"/>
+  <img src="https://raw.githubusercontent.com/Lobster-Armlock/Lobster-Armlock/main/logo.png" width="200"/>
   <br/>
-  <strong>Lagosta Arm-Lock Software Corporation™</strong>
+  <strong>Lobster Public Defender Armlock Corporation™</strong>
 </div>
 
 ---
