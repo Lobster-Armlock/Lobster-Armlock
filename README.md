@@ -1,4 +1,10 @@
-# Lobster-Armlock
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/251811755?v=4" width="200" style="border-radius:50%"/>
+  <br/>
+  <strong>Lagosta Arm-Lock Software Corporation™</strong>
+</div>
+
+---
 
 Brazilian public defender. BJJ black belt. Polymath — or so the tests say. Learning to code since December 2025, with and without the help of AIs. Relentless tinkerer who pokes, disassembles, and tries to understand everything in sight just to learn and attempt to apply it.
 
