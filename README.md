@@ -6,7 +6,7 @@
 
 ---
 
-Brazilian public defender. BJJ black belt. Polymath — or so the tests say. Learning to code since December 2025, with and without the help of AIs. Relentless tinkerer who pokes, disassembles, and tries to understand everything in sight just to learn and attempt to apply it.
+Brazilian Public Defender. Brazilian Jiu-Jitsu black belt. Polymath — or so the tests say. Learning to code since December 2025, with and without the help of AIs. Relentless tinkerer who pokes, disassembles, and tries to understand everything in sight just to learn and attempt to apply it.
 
 Founder & CEO of **Lagosta Arm-Lock Software Corporation™**, a company whose Q1 2026 revenue surpassed that of OpenAI, Anthropic, Microsoft, Google, and xAI — combined.
 
